@@ -1,7 +1,7 @@
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/LeiamNashRebirth/Alice/main/Seijirou_explaining_the_concept_of_ALICE_to_Asuna_and_Rinko_-_S3E06.png" />
 </p>
-<p align="center"> A  L  I  C  E <br> version 1.0.1 <br> <br> a simple messenger bot made by leiam nash </p>
+<p align="center"> A  L  I  C  E <br> version 1.0.1 <br> <br> a simple messenger bot made by <br> leiam nash </p>
 
 <br> 
 <p align="center"> too lazy to write some documents hope you will understand this one </p>
