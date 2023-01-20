@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/LeiamNashRebirth/Alice/main/Seijirou_explaining_the_concept_of_ALICE_to_Asuna_and_Rinko_-_S3E06.png" />
+<img src="https://raw.githubusercontent.com/LeiamNashRebirth/Alice/main/IMG_20230120_185805.png" />
 </p>
 <p align="center"> A  L  I  C  E <br> version 1.0.1 <br> <br> a simple messenger bot made by <br> leiam nash </p>
 
