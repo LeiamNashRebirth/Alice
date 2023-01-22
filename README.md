@@ -1,18 +1,21 @@
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/LeiamNashRebirth/Alice/main/IMG_20230120_185805.png" />
+<img src="https://raw.githubusercontent.com/LeiamNashRebirth/Alice/main/IMG_20230122_081654.png" />
 </p>
-<p align="center"> A  L  I  C  E <br> version 1.0.1 <br> <br> a simple messenger bot made by <br> leiam nash </p>
+<p align="center"> A  L  I  C  E <br> version 1.0.2 <br> <br> a simple messenger bot made by <br> leiam nash </p>
 
 <br> 
 <p align="center"> too lazy to write some documents hope you will understand this one </p>
 <br> <br>
 
 what's new?
-> v 1.0.1
+> v 1.0.2
 
-system message request is now available you can now use this bot to your group chat without my permission and requesting a friend request
+media request is now fixed, bot cache system is now updated you can now request multiple media
 <br> 
-> what is message request?  <br> • on this feature you can now instant activate the bot system by adding her to your group
+> what is cache system?  <br> • bot cache system is like a database or a mini cloud storage, when you requesting some of video or voice message that file will be save on bot cache system, on this feature the media request is now fixed you can now request multiple without getting some of error
+
+command includes
+> ?sing <br> ?video <br> ?fbmp4 <br> ?fbmp3 <br> tiktokmp4 <br> tiktokmp3 <br> ?music <br> ?google
 
 <br>
 
